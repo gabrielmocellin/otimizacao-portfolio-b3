@@ -1,0 +1,58 @@
+{
+  "projeto": "Avaliação Fundamentalista, Otimização de Portfólio e Backtesting",
+  "tickers": [
+    "VALE3",
+    "WEGE3",
+    "EGIE3",
+    "ITUB4",
+    "RADL3"
+  ],
+  "detalhes": [
+    {
+      "ticker": "VALE3",
+      "empresa": "Vale",
+      "setor_economico": "Primário",
+      "segmento": "Extração Mineral",
+      "tese": "Pura exposição à extração mineral, altíssima liquidez e baixo endividamento.",
+      "alternativas": []
+    },
+    {
+      "ticker": "WEGE3",
+      "empresa": "WEG",
+      "setor_economico": "Secundário",
+      "segmento": "Indústria de Transformação e Bens de Capital",
+      "tese": "Representa a indústria de transformação e bens de capital com histórico consistente de ROE elevado.",
+      "alternativas": []
+    },
+    {
+      "ticker": "EGIE3",
+      "empresa": "Engie Brasil",
+      "setor_economico": "Secundário",
+      "segmento": "Infraestrutura e Energia",
+      "tese": "Representa a geração e transmissão de energia, trazendo previsibilidade de caixa.",
+      "alternativas": [
+        "ELET3"
+      ]
+    },
+    {
+      "ticker": "ITUB4",
+      "empresa": "Itaú Unibanco",
+      "setor_economico": "Terciário",
+      "segmento": "Financeiro",
+      "tese": "Representa o setor financeiro, o maior peso do Ibovespa.",
+      "alternativas": [
+        "BBAS3"
+      ]
+    },
+    {
+      "ticker": "RADL3",
+      "empresa": "Raia Drogasil",
+      "setor_economico": "Terciário",
+      "segmento": "Consumo e Serviços",
+      "tese": "Representa o varejo/serviços essenciais de alta escala.",
+      "alternativas": [
+        "RENT3"
+      ]
+    }
+  ]
+}

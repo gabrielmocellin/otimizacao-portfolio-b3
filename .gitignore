@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Segredos e variáveis de ambiente
+.env
+
+# Arquivos temporários do Python e VS Code
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
