@@ -2,3 +2,4 @@ yfinance
 python-dotenv
 pandas
 numpy
+streamlit
